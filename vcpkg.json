@@ -1,0 +1,11 @@
+{
+  "name": "gradient",
+  "version": "0.1.0",
+  "dependencies": [
+    "drogon",
+    "onnxruntime",
+    "simdjson",
+    "fmt",
+    "gflags"
+  ]
+}
